@@ -1,0 +1,7 @@
+# OS / 临时
+.DS_Store
+Thumbs.db
+*.log
+
+# 本地编辑器
+*.swp
