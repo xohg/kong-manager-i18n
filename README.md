@@ -10,6 +10,18 @@
 - 零改动 Kong 原文件，注入脚本独立、可整体移除
 - 内置约 510 条词典 + 30 条动态文案正则，覆盖主要界面
 
+## 效果预览
+
+> 以下截图均来自本地 Docker 中真实运行的 Kong Manager OSS 3.6.1（端口 8002），非模拟。
+
+| 中文首页 | 英文对照 |
+| --- | --- |
+| ![中文首页](screenshots/real-8002-cn.png) | ![英文对照](screenshots/real-8002-en.png) |
+
+| 服务列表（中文） | 插件页（中文） |
+| --- | --- |
+| ![服务列表](screenshots/real-8002-services.png) | ![插件页](screenshots/real-8002-plugins.png) |
+
 ## 环境要求
 
 | 项目 | 说明 |
